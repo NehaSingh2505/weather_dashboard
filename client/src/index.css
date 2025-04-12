@@ -1,0 +1,7 @@
+body.bg-dark {
+  transition: background-color 0.3s ease;
+}
+
+body.bg-light {
+  transition: background-color 0.3s ease;
+}
