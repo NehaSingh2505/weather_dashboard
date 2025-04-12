@@ -38,7 +38,7 @@ weather_dashboard/
 ## Getting started with the project:
 
 - Clone the repository
-1. git clone https://github.com/NehaSingh2505/weather-app.git
+1. git clone https://github.com/NehaSingh2505/weather_dashboard.git
 2. cd weather_dashboard
 
 - Setup Backend
