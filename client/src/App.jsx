@@ -14,7 +14,7 @@ function App() {
 
   const getWeather = async (city) => {
     try {
-      const res = await axios.get(`http://localhost:5000/weather?city=${city}`);
+      const res = await axios.get(`https://weather-dashboard-523z.onrender.com/weather?city=${city}`);
 
       const formattedData = {
         city: city,
