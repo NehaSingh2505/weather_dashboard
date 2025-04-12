@@ -67,3 +67,4 @@ npm run dev
 
 1. frontend : https://weatherdashboard-lemon.vercel.app/
 
+2. backend : https://weather-dashboard-523z.onrender.com
